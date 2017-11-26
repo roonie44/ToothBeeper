@@ -1,0 +1,4 @@
+stm32l4xx_ll_cortex.h:339:22:void LL_LPM_EnableDeepSleep()	4	static
+stm32l4xx_ll_pwr.h:399:22:void LL_PWR_SetPowerMode(uint32_t)	16	static
+main.cpp:9:5:int main()	8	static
+main.cpp:27:6:void EnterShutdownMode()	8	static

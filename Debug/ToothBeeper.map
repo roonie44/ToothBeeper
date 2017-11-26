@@ -1,0 +1,1753 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                              Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o (__aeabi_uldivmod)
+c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+                              c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+ .text          0x00000000        0x0 CBuzzer\buzzer.o
+ .data          0x00000000        0x0 CBuzzer\buzzer.o
+ .bss           0x00000000        0x0 CBuzzer\buzzer.o
+ .rodata._ZL21aRCC_APBAHBPrescTable
+                0x00000000        0x8 CBuzzer\buzzer.o
+ .rodata._ZL16OFFSET_TAB_CCMRx
+                0x00000000        0x9 CBuzzer\buzzer.o
+ .rodata._ZL14SHIFT_TAB_OCxx
+                0x00000000        0x9 CBuzzer\buzzer.o
+ .rodata._ZL14SHIFT_TAB_ICxx
+                0x00000000        0x9 CBuzzer\buzzer.o
+ .rodata._ZL14SHIFT_TAB_CCxP
+                0x00000000        0x9 CBuzzer\buzzer.o
+ .rodata._ZL14SHIFT_TAB_OISx
+                0x00000000        0x9 CBuzzer\buzzer.o
+ .text          0x00000000        0x0 CDisplay\display.o
+ .data          0x00000000        0x0 CDisplay\display.o
+ .bss           0x00000000        0x0 CDisplay\display.o
+ .rodata._ZL21aRCC_APBAHBPrescTable
+                0x00000000        0x8 CDisplay\display.o
+ .rodata._ZL16OFFSET_TAB_CCMRx
+                0x00000000        0x9 CDisplay\display.o
+ .rodata._ZL14SHIFT_TAB_OCxx
+                0x00000000        0x9 CDisplay\display.o
+ .rodata._ZL14SHIFT_TAB_ICxx
+                0x00000000        0x9 CDisplay\display.o
+ .rodata._ZL14SHIFT_TAB_CCxP
+                0x00000000        0x9 CDisplay\display.o
+ .rodata._ZL14SHIFT_TAB_OISx
+                0x00000000        0x9 CDisplay\display.o
+ .text._ZN14CDisplayModule8PrintBCDEj
+                0x00000000       0x44 CDisplay\display.o
+ .text          0x00000000        0x0 CTimer\timer.o
+ .data          0x00000000        0x0 CTimer\timer.o
+ .bss           0x00000000        0x0 CTimer\timer.o
+ .rodata._ZL21aRCC_APBAHBPrescTable
+                0x00000000        0x8 CTimer\timer.o
+ .rodata._ZL16OFFSET_TAB_CCMRx
+                0x00000000        0x9 CTimer\timer.o
+ .rodata._ZL14SHIFT_TAB_OCxx
+                0x00000000        0x9 CTimer\timer.o
+ .rodata._ZL14SHIFT_TAB_ICxx
+                0x00000000        0x9 CTimer\timer.o
+ .rodata._ZL14SHIFT_TAB_CCxP
+                0x00000000        0x9 CTimer\timer.o
+ .rodata._ZL14SHIFT_TAB_OISx
+                0x00000000        0x9 CTimer\timer.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_REG_SetTriggerSource
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_REG_SetSequencerLength
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_INJ_SetTriggerSource
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_INJ_SetQueueMode
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_Disable
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_IsEnabled
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_IsDisableOngoing
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_REG_StopConversion
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_REG_IsConversionOngoing
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_REG_IsStopConversionOngoing
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_INJ_StopConversion
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_INJ_IsConversionOngoing
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_INJ_IsStopConversionOngoing
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_AHB2_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_AHB2_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_CommonDeInit
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_CommonInit
+                0x00000000       0x90 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_CommonStructInit
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_DeInit
+                0x00000000      0x250 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_Init
+                0x00000000       0x4c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_StructInit
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_REG_Init
+                0x00000000       0x94 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_REG_StructInit
+                0x00000000       0x3c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_INJ_Init
+                0x00000000       0x78 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text.LL_ADC_INJ_StructInit
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .debug_info    0x00000000      0xb0f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .debug_abbrev  0x00000000      0x16b Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .debug_aranges
+                0x00000000       0xe0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .debug_ranges  0x00000000       0xd0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .debug_line    0x00000000      0x49d Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .debug_str     0x00000000      0x80a Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .debug_frame   0x00000000      0x3e8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .text.LL_COMP_IsLocked
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .text.LL_COMP_DeInit
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .text.LL_COMP_Init
+                0x00000000       0x60 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .text.LL_COMP_StructInit
+                0x00000000       0x3c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .debug_info    0x00000000      0x22e Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .debug_abbrev  0x00000000      0x132 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .debug_aranges
+                0x00000000       0x38 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .debug_ranges  0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .debug_line    0x00000000      0x285 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .debug_str     0x00000000      0x2f0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .debug_frame   0x00000000       0xa8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .text.LL_AHB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .text.LL_AHB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .text.LL_CRC_DeInit
+                0x00000000       0x38 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .debug_info    0x00000000      0x411 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .debug_abbrev  0x00000000      0x109 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .debug_aranges
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .debug_ranges  0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .debug_line    0x00000000      0x25e Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .debug_str     0x00000000      0x3f2 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .debug_frame   0x00000000       0x84 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .debug_info    0x00000000       0x92 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .debug_abbrev  0x00000000       0x4b Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .debug_aranges
+                0x00000000       0x18 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .debug_line    0x00000000      0x125 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .debug_str     0x00000000      0x1f0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .text.LL_DAC_IsEnabled
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .text.LL_APB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .text.LL_APB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .text.LL_DAC_DeInit
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .text.LL_DAC_Init
+                0x00000000       0xcc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .text.LL_DAC_StructInit
+                0x00000000       0x38 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .debug_info    0x00000000      0x581 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .debug_abbrev  0x00000000      0x159 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .debug_aranges
+                0x00000000       0x48 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .debug_ranges  0x00000000       0x38 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .debug_line    0x00000000      0x2c7 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .debug_str     0x00000000      0x4f4 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .debug_frame   0x00000000       0xf8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .rodata.CHANNEL_OFFSET_TAB
+                0x00000000        0x7 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_ConfigTransfer
+                0x00000000       0x4c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_SetDataLength
+                0x00000000       0x48 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_SetMemoryAddress
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_SetPeriphAddress
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_SetPeriphRequest
+                0x00000000       0x64 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_ClearFlag_GI1
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_ClearFlag_GI2
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_ClearFlag_GI3
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_ClearFlag_GI4
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_ClearFlag_GI5
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_ClearFlag_GI6
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_ClearFlag_GI7
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_AHB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_AHB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_DeInit
+                0x00000000      0x218 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_Init
+                0x00000000       0x80 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text.LL_DMA_StructInit
+                0x00000000       0x58 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .debug_info    0x00000000      0x823 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .debug_abbrev  0x00000000      0x1da Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .debug_aranges
+                0x00000000       0xa0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .debug_ranges  0x00000000       0x90 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .debug_line    0x00000000      0x4bd Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .debug_str     0x00000000      0x66e Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .debug_frame   0x00000000      0x2b0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_EnableIT_0_31
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_EnableIT_32_63
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DisableIT_0_31
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DisableIT_32_63
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_EnableEvent_0_31
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_EnableEvent_32_63
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DisableEvent_0_31
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DisableEvent_32_63
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_EnableRisingTrig_0_31
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_EnableRisingTrig_32_63
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DisableRisingTrig_0_31
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DisableRisingTrig_32_63
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_EnableFallingTrig_0_31
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_EnableFallingTrig_32_63
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DisableFallingTrig_0_31
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DisableFallingTrig_32_63
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_DeInit
+                0x00000000       0x64 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_Init
+                0x00000000      0x1cc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text.LL_EXTI_StructInit
+                0x00000000       0x34 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .debug_info    0x00000000      0x506 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .debug_abbrev  0x00000000      0x159 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .debug_aranges
+                0x00000000       0xb0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .debug_ranges  0x00000000       0xa0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .debug_line    0x00000000      0x3cb Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .debug_str     0x00000000      0x4fc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .debug_frame   0x00000000      0x2fc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_AHB2_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_AHB2_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_GPIO_DeInit
+                0x00000000       0xe8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_GPIO_StructInit
+                0x00000000       0x3c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_Enable
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_Disable
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_ConfigFilters
+                0x00000000       0x48 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_SetOwnAddress1
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_EnableOwnAddress1
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_DisableOwnAddress1
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_SetTiming
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_SetMode
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_AcknowledgeNextData
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_APB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_APB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_DeInit
+                0x00000000       0x74 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_Init
+                0x00000000       0x70 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text.LL_I2C_StructInit
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .debug_info    0x00000000      0x6e5 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .debug_abbrev  0x00000000      0x196 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .debug_aranges
+                0x00000000       0x88 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .debug_ranges  0x00000000       0x78 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .debug_line    0x00000000      0x379 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .debug_str     0x00000000      0x554 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .debug_frame   0x00000000      0x238 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text.LL_LPTIM_IsEnabled
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text.LL_APB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text.LL_APB1_GRP2_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text.LL_APB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text.LL_APB1_GRP2_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text.LL_LPTIM_DeInit
+                0x00000000       0x54 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text.LL_LPTIM_StructInit
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text.LL_LPTIM_Init
+                0x00000000       0x54 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .debug_info    0x00000000      0x515 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .debug_abbrev  0x00000000      0x159 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .debug_aranges
+                0x00000000       0x58 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .debug_ranges  0x00000000       0x48 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .debug_line    0x00000000      0x2eb Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .debug_str     0x00000000      0x484 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .debug_frame   0x00000000      0x148 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_LPUART_IsEnabled
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_LPUART_SetStopBitsLength
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_LPUART_SetHWFlowCtrl
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_LPUART_SetBaudRate
+                0x00000000       0x58 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .rodata.aRCC_APBAHBPrescTable
+                0x00000000        0x8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_APB1_GRP2_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_APB1_GRP2_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_LPUART_DeInit
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_LPUART_Init
+                0x00000000       0x8c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text.LL_LPUART_StructInit
+                0x00000000       0x3c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .debug_info    0x00000000      0x65f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .debug_abbrev  0x00000000      0x18a Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .debug_aranges
+                0x00000000       0x60 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .debug_ranges  0x00000000       0x50 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .debug_line    0x00000000      0x315 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .debug_str     0x00000000      0x533 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .debug_frame   0x00000000      0x170 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .text.LL_OPAMP_DeInit
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .text.LL_OPAMP_Init
+                0x00000000       0x74 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .text.LL_OPAMP_StructInit
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .debug_info    0x00000000      0x1f6 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .debug_abbrev  0x00000000      0x118 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .debug_aranges
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .debug_ranges  0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .debug_line    0x00000000      0x26b Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .debug_str     0x00000000      0x2d4 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .debug_frame   0x00000000       0x88 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .text.LL_APB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .text.LL_APB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .text.LL_PWR_DeInit
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .debug_info    0x00000000      0x33d Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .debug_abbrev  0x00000000       0xe0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .debug_aranges
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .debug_ranges  0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .debug_line    0x00000000      0x25b Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .debug_str     0x00000000      0x3af Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .debug_frame   0x00000000       0x7c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .rodata.aRCC_APBAHBPrescTable
+                0x00000000        0x8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_HSE_DisableBypass
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_HSI_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_HSI_SetCalibTrimming
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_LSE_IsReady
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_LSI_IsReady
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_MSI_Enable
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_MSI_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_MSI_IsEnabledRangeSelect
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_MSI_SetRange
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_MSI_GetRange
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_MSI_GetRangeAfterStandby
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_MSI_SetCalibTrimming
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetSysClkSource
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetAHBPrescaler
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetAPB1Prescaler
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetAPB2Prescaler
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetUSARTClockSource
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetUARTClockSource
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetLPUARTClockSource
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetI2CClockSource
+                0x00000000       0x44 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetLPTIMClockSource
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetSAIClockSource
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetSDMMCClockSource
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetRNGClockSource
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetADCClockSource
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetSWPMIClockSource
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLL_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLL_GetN
+                0x00000000       0x34 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLL_GetP
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLL_GetQ
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLL_GetR
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLL_GetMainSource
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLL_GetDivider
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI1_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI1_GetN
+                0x00000000       0x34 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI1_GetP
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI1_GetQ
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI1_GetR
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI2_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI2_GetN
+                0x00000000       0x34 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI2_GetP
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_PLLSAI2_GetR
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_DeInit
+                0x00000000       0xd0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetSystemClocksFreq
+                0x00000000       0x4c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetUSARTClockFreq
+                0x00000000      0x174 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetUARTClockFreq
+                0x00000000       0xfc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetI2CClockFreq
+                0x00000000      0x138 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetLPUARTClockFreq
+                0x00000000       0x7c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetLPTIMClockFreq
+                0x00000000      0x120 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetSAIClockFreq
+                0x00000000      0x100 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetSDMMCClockFreq
+                0x00000000       0xc8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetRNGClockFreq
+                0x00000000       0xc8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetADCClockFreq
+                0x00000000       0x6c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.LL_RCC_GetSWPMIClockFreq
+                0x00000000       0x54 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_GetSystemClockFreq
+                0x00000000      0x124 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_GetHCLKClockFreq
+                0x00000000       0x3c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_GetPCLK1ClockFreq
+                0x00000000       0x3c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_GetPCLK2ClockFreq
+                0x00000000       0x3c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_PLL_GetFreqDomain_SYS
+                0x00000000      0x140 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_PLL_GetFreqDomain_SAI
+                0x00000000      0x12c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_PLL_GetFreqDomain_48M
+                0x00000000      0x140 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_PLLSAI1_GetFreqDomain_SAI
+                0x00000000      0x12c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_PLLSAI1_GetFreqDomain_48M
+                0x00000000      0x140 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_PLLSAI1_GetFreqDomain_ADC
+                0x00000000      0x140 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_PLLSAI2_GetFreqDomain_SAI
+                0x00000000      0x12c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text.RCC_PLLSAI2_GetFreqDomain_ADC
+                0x00000000      0x140 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .debug_info    0x00000000     0x11b7 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .debug_abbrev  0x00000000      0x282 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .debug_aranges
+                0x00000000      0x228 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .debug_ranges  0x00000000      0x218 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .debug_line    0x00000000      0xe6f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .debug_str     0x00000000      0xbb8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .debug_frame   0x00000000      0x950 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .text.LL_AHB2_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .text.LL_AHB2_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .text.LL_RNG_DeInit
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .debug_info    0x00000000      0x390 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .debug_abbrev  0x00000000       0xfa Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .debug_aranges
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .debug_ranges  0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .debug_line    0x00000000      0x25b Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .debug_str     0x00000000      0x3c0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .debug_frame   0x00000000       0x84 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_SetHourFormat
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_GetHourFormat
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_EnableInitMode
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_DisableInitMode
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_IsShadowRegBypassEnabled
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_SetAsynchPrescaler
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_SetSynchPrescaler
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_EnableWriteProtection
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_DisableWriteProtection
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_TIME_Config
+                0x00000000       0xe8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_DATE_Config
+                0x00000000      0x104 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMA_SetMask
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMA_EnableWeekday
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMA_DisableWeekday
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMA_SetDay
+                0x00000000       0x60 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMA_SetWeekDay
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMA_ConfigTime
+                0x00000000       0xe8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMB_SetMask
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMB_EnableWeekday
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMB_DisableWeekday
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMB_SetDay
+                0x00000000       0x64 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMB_SetWeekDay
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMB_ConfigTime
+                0x00000000       0xe8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_IsActiveFlag_INIT
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_IsActiveFlag_RS
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ClearFlag_RS
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_SYSTICK_IsActiveCounterFlag
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_DeInit
+                0x00000000       0x9c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_Init
+                0x00000000       0x60 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_StructInit
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_TIME_Init
+                0x00000000      0x150 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_TIME_StructInit
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_DATE_Init
+                0x00000000      0x14c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_DATE_StructInit
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMA_Init
+                0x00000000      0x190 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMB_Init
+                0x00000000      0x190 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMA_StructInit
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ALMB_StructInit
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_EnterInitMode
+                0x00000000       0x6c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_ExitInitMode
+                0x00000000       0x18 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text.LL_RTC_WaitForSynchro
+                0x00000000       0xa4 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .debug_info    0x00000000     0x1404 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .debug_abbrev  0x00000000      0x238 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .debug_aranges
+                0x00000000      0x160 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .debug_ranges  0x00000000      0x150 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .debug_line    0x00000000      0x83c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .debug_str     0x00000000      0x87c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .debug_frame   0x00000000      0x67c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_SPI_IsEnabled
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_SPI_SetCRCPolynomial
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_APB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_APB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_APB2_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_APB2_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_SPI_DeInit
+                0x00000000       0x78 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_SPI_Init
+                0x00000000       0x9c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text.LL_SPI_StructInit
+                0x00000000       0x54 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .debug_info    0x00000000      0x5aa Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .debug_abbrev  0x00000000      0x168 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .debug_aranges
+                0x00000000       0x60 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .debug_ranges  0x00000000       0x50 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .debug_line    0x00000000      0x30b Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .debug_str     0x00000000      0x4ed Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .debug_frame   0x00000000      0x170 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text.LL_SWPMI_IsActivated
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text.LL_SWPMI_SetBitRatePrescaler
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text.LL_SWPMI_SetVoltageClass
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text.LL_APB1_GRP2_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text.LL_APB1_GRP2_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text.LL_SWPMI_DeInit
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text.LL_SWPMI_Init
+                0x00000000       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text.LL_SWPMI_StructInit
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .debug_info    0x00000000      0x532 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .debug_abbrev  0x00000000      0x159 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .debug_aranges
+                0x00000000       0x58 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .debug_ranges  0x00000000       0x48 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .debug_line    0x00000000      0x2e2 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .debug_str     0x00000000      0x4a0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .debug_frame   0x00000000      0x148 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .rodata.OFFSET_TAB_CCMRx
+                0x00000000        0x9 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .rodata.SHIFT_TAB_OCxx
+                0x00000000        0x9 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .rodata.SHIFT_TAB_ICxx
+                0x00000000        0x9 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .rodata.SHIFT_TAB_CCxP
+                0x00000000        0x9 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .rodata.SHIFT_TAB_OISx
+                0x00000000        0x9 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_SetPrescaler
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_SetAutoReload
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_SetRepetitionCounter
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_OC_SetCompareCH1
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_OC_SetCompareCH2
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_OC_SetCompareCH3
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_OC_SetCompareCH4
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_OC_SetCompareCH5
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_OC_SetCompareCH6
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_SetEncoderMode
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_GenerateEvent_UPDATE
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_APB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_APB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_APB2_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_APB2_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_DeInit
+                0x00000000      0x148 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_StructInit
+                0x00000000       0x34 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_Init
+                0x00000000      0x12c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_OC_StructInit
+                0x00000000       0x44 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_OC_Init
+                0x00000000       0x9c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_IC_StructInit
+                0x00000000       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_IC_Init
+                0x00000000       0x70 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_ENCODER_StructInit
+                0x00000000       0x50 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_ENCODER_Init
+                0x00000000       0xcc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_HALLSENSOR_StructInit
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_HALLSENSOR_Init
+                0x00000000       0xf0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_BDTR_StructInit
+                0x00000000       0x58 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.LL_TIM_BDTR_Init
+                0x00000000       0xec Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.OC1Config
+                0x00000000      0x10c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.OC2Config
+                0x00000000      0x114 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.OC3Config
+                0x00000000      0x114 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.OC4Config
+                0x00000000       0xe4 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.OC5Config
+                0x00000000       0xd0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.OC6Config
+                0x00000000       0xd0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.IC1Config
+                0x00000000       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.IC2Config
+                0x00000000       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.IC3Config
+                0x00000000       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text.IC4Config
+                0x00000000       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .debug_info    0x00000000     0x10eb Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .debug_abbrev  0x00000000      0x1ba Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .debug_aranges
+                0x00000000      0x148 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .debug_ranges  0x00000000      0x138 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .debug_line    0x00000000      0x74c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .debug_str     0x00000000      0xa6d Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .debug_frame   0x00000000      0x5cc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_IsEnabled
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_DisableSCLKOutput
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_SetStopBitsLength
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_SetHWFlowCtrl
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_SetBaudRate
+                0x00000000       0x60 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .rodata.aRCC_APBAHBPrescTable
+                0x00000000        0x8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_APB1_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_APB1_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_APB2_GRP1_ForceReset
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_APB2_GRP1_ReleaseReset
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_DeInit
+                0x00000000       0xb0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_Init
+                0x00000000       0xf8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_StructInit
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_ClockInit
+                0x00000000       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text.LL_USART_ClockStructInit
+                0x00000000       0x2c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .debug_info    0x00000000      0x7ac Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .debug_abbrev  0x00000000      0x19d Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .debug_aranges
+                0x00000000       0x88 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .debug_ranges  0x00000000       0x78 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .debug_line    0x00000000      0x3a9 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .debug_str     0x00000000      0x612 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .debug_frame   0x00000000      0x238 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+ .text          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .data          0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .bss           0x00000000        0x0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_InitTick
+                0x00000000       0x34 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .rodata.aRCC_APBAHBPrescTable
+                0x00000000        0x8 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_HSE_EnableBypass
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_HSE_DisableBypass
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_HSE_Enable
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_HSE_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_HSI_Enable
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_HSI_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_MSI_Enable
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_MSI_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_MSI_IsEnabledRangeSelect
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_MSI_GetRange
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_MSI_GetRangeAfterStandby
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_SetSysClkSource
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_GetSysClkSource
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_SetAHBPrescaler
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_SetAPB1Prescaler
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_SetAPB2Prescaler
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_PLL_Enable
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_PLL_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_PLL_ConfigDomain_SYS
+                0x00000000       0x54 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_PLL_EnableDomain_SYS
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_PLLSAI1_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_RCC_PLLSAI2_IsReady
+                0x00000000       0x24 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_FLASH_SetLatency
+                0x00000000       0x28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_FLASH_GetLatency
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_PWR_GetRegulVoltageScaling
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_Init1msTick
+                0x00000000       0x1c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_mDelay
+                0x00000000       0x48 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_SetSystemCoreClock
+                0x00000000       0x20 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_PLL_ConfigSystemClock_MSI
+                0x00000000       0xf0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_PLL_ConfigSystemClock_HSI
+                0x00000000       0x74 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.LL_PLL_ConfigSystemClock_HSE
+                0x00000000       0x84 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.UTILS_SetFlashLatency
+                0x00000000       0xc4 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.UTILS_GetPLLOutputFrequency
+                0x00000000       0x90 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.UTILS_PLL_IsBusy
+                0x00000000       0x40 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text.UTILS_EnablePLLAndSwitchSystem
+                0x00000000       0xcc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .debug_info    0x00000000      0xd28 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .debug_abbrev  0x00000000      0x285 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .debug_aranges
+                0x00000000      0x138 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .debug_ranges  0x00000000      0x128 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .debug_line    0x00000000      0x65c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .debug_str     0x00000000      0x93d Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .comment       0x00000000       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .debug_frame   0x00000000      0x4fc Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .ARM.attributes
+                0x00000000       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+ .text          0x00000000        0x0 src\init.o
+ .data          0x00000000        0x0 src\init.o
+ .bss           0x00000000        0x0 src\init.o
+ .rodata._ZL21aRCC_APBAHBPrescTable
+                0x00000000        0x8 src\init.o
+ .rodata._ZL16OFFSET_TAB_CCMRx
+                0x00000000        0x9 src\init.o
+ .rodata._ZL14SHIFT_TAB_OCxx
+                0x00000000        0x9 src\init.o
+ .rodata._ZL14SHIFT_TAB_ICxx
+                0x00000000        0x9 src\init.o
+ .rodata._ZL14SHIFT_TAB_CCxP
+                0x00000000        0x9 src\init.o
+ .rodata._ZL14SHIFT_TAB_OISx
+                0x00000000        0x9 src\init.o
+ .text          0x00000000        0x0 src\interrputs.o
+ .data          0x00000000        0x0 src\interrputs.o
+ .bss           0x00000000        0x0 src\interrputs.o
+ .rodata._ZL21aRCC_APBAHBPrescTable
+                0x00000000        0x8 src\interrputs.o
+ .rodata._ZL16OFFSET_TAB_CCMRx
+                0x00000000        0x9 src\interrputs.o
+ .rodata._ZL14SHIFT_TAB_OCxx
+                0x00000000        0x9 src\interrputs.o
+ .rodata._ZL14SHIFT_TAB_ICxx
+                0x00000000        0x9 src\interrputs.o
+ .rodata._ZL14SHIFT_TAB_CCxP
+                0x00000000        0x9 src\interrputs.o
+ .rodata._ZL14SHIFT_TAB_OISx
+                0x00000000        0x9 src\interrputs.o
+ .text          0x00000000        0x0 src\main.o
+ .data          0x00000000        0x0 src\main.o
+ .bss           0x00000000        0x0 src\main.o
+ .rodata._ZL21aRCC_APBAHBPrescTable
+                0x00000000        0x8 src\main.o
+ .rodata._ZL16OFFSET_TAB_CCMRx
+                0x00000000        0x9 src\main.o
+ .rodata._ZL14SHIFT_TAB_OCxx
+                0x00000000        0x9 src\main.o
+ .rodata._ZL14SHIFT_TAB_ICxx
+                0x00000000        0x9 src\main.o
+ .rodata._ZL14SHIFT_TAB_CCxP
+                0x00000000        0x9 src\main.o
+ .rodata._ZL14SHIFT_TAB_OISx
+                0x00000000        0x9 src\main.o
+ .text          0x00000000       0x30 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000      0x2e4 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x34 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00018000         xrw
+RAM2             0x10000000         0x00008000         rw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+LOAD CBuzzer\buzzer.o
+LOAD CDisplay\display.o
+LOAD CTimer\timer.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crs.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+LOAD Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+LOAD src\init.o
+LOAD src\interrputs.o
+LOAD src\main.o
+START GROUP
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libstdc++_nano.a
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libsupc++_nano.a
+END GROUP
+                0x00001000                malloc_getpagesize_P = 0x1000
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libstdc++_nano.a
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libm.a
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libc_nano.a
+START GROUP
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libc_nano.a
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libc_nano.a
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/../../../../arm-atollic-eabi/lib/armv7e-m/fpu\libnosys.a
+END GROUP
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtend.o
+LOAD c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtn.o
+                0x20018000                _estack = 0x20018000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 src\interrputs.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x114c
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x40 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+ *(.text*)
+ .text.LL_GPIO_SetOutputPin
+                0x080001c8       0x1c CBuzzer\buzzer.o
+ .text.LL_GPIO_ResetOutputPin
+                0x080001e4       0x1c CBuzzer\buzzer.o
+ .text.LL_TIM_EnableCounter
+                0x08000200       0x20 CBuzzer\buzzer.o
+ .text.LL_TIM_SetCounter
+                0x08000220       0x1c CBuzzer\buzzer.o
+ .text.LL_TIM_SetAutoReload
+                0x0800023c       0x1c CBuzzer\buzzer.o
+ .text._ZN13CBuzzerModule6HandleEv
+                0x08000258       0x7c CBuzzer\buzzer.o
+                0x08000258                CBuzzerModule::Handle()
+ .text._ZN13CBuzzerModule9BeepShortEj
+                0x080002d4       0x24 CBuzzer\buzzer.o
+                0x080002d4                CBuzzerModule::BeepShort(unsigned int)
+ .text._ZN13CBuzzerModule8BeepLongEj
+                0x080002f8       0x28 CBuzzer\buzzer.o
+                0x080002f8                CBuzzerModule::BeepLong(unsigned int)
+ .text.LL_GPIO_SetOutputPin
+                0x08000320       0x1c CDisplay\display.o
+ .text.LL_GPIO_ResetOutputPin
+                0x0800033c       0x1c CDisplay\display.o
+ .text._ZN14CDisplayModule4InitEv
+                0x08000358       0x24 CDisplay\display.o
+                0x08000358                CDisplayModule::Init()
+ .text._ZN14CDisplayModule6HandleEv
+                0x0800037c       0x50 CDisplay\display.o
+                0x0800037c                CDisplayModule::Handle()
+ .text._ZN14CDisplayModule8PrintDecEj
+                0x080003cc       0x70 CDisplay\display.o
+                0x080003cc                CDisplayModule::PrintDec(unsigned int)
+ .text._ZN14CDisplayModule11DigitSelectEj
+                0x0800043c       0x84 CDisplay\display.o
+                0x0800043c                CDisplayModule::DigitSelect(unsigned int)
+ .text._ZN14CDisplayModule8DigitSetEh
+                0x080004c0      0x264 CDisplay\display.o
+                0x080004c0                CDisplayModule::DigitSet(unsigned char)
+ .text._ZN14CDisplayModule10DigitClearEv
+                0x08000724       0x60 CDisplay\display.o
+                0x08000724                CDisplayModule::DigitClear()
+ .text._ZN12CTimerModule4InitEv
+                0x08000784       0x14 CTimer\timer.o
+                0x08000784                CTimerModule::Init()
+ .text._ZN12CTimerModule6HandleEv
+                0x08000798       0x9c CTimer\timer.o
+                0x08000798                CTimerModule::Handle()
+ .text._ZN12CTimerModule6ReloadEv
+                0x08000834       0x1c CTimer\timer.o
+                0x08000834                CTimerModule::Reload()
+ .text.LL_GPIO_SetPinMode
+                0x08000850       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_GPIO_SetPinOutputType
+                0x080008ac       0x30 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_GPIO_SetPinSpeed
+                0x080008dc       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_GPIO_SetPinPull
+                0x08000938       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_GPIO_SetAFPin_0_7
+                0x08000994       0x5c Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_GPIO_SetAFPin_8_15
+                0x080009f0       0x60 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .text.LL_GPIO_Init
+                0x08000a50       0xf4 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+                0x08000a50                LL_GPIO_Init
+ .text.NVIC_EnableIRQ
+                0x08000b44       0x34 src\init.o
+ .text.NVIC_SetPriority
+                0x08000b78       0x54 src\init.o
+ .text.SysTick_Config
+                0x08000bcc       0x44 src\init.o
+ .text.LL_AHB2_GRP1_EnableClock
+                0x08000c10       0x30 src\init.o
+ .text.LL_APB1_GRP1_EnableClock
+                0x08000c40       0x30 src\init.o
+ .text.LL_APB2_GRP1_EnableClock
+                0x08000c70       0x30 src\init.o
+ .text.LL_EXTI_EnableIT_0_31
+                0x08000ca0       0x24 src\init.o
+ .text.LL_EXTI_EnableRisingTrig_0_31
+                0x08000cc4       0x24 src\init.o
+ .text.LL_EXTI_EnableFallingTrig_0_31
+                0x08000ce8       0x24 src\init.o
+ .text.LL_EXTI_ClearFlag_0_31
+                0x08000d0c       0x20 src\init.o
+ .text.LL_TIM_EnableCounter
+                0x08000d2c       0x20 src\init.o
+ .text.LL_TIM_SetOnePulseMode
+                0x08000d4c       0x28 src\init.o
+ .text.LL_TIM_SetPrescaler
+                0x08000d74       0x1c src\init.o
+ .text.LL_TIM_SetAutoReload
+                0x08000d90       0x1c src\init.o
+ .text.LL_TIM_EnableIT_UPDATE
+                0x08000dac       0x20 src\init.o
+ .text.LL_TIM_GenerateEvent_UPDATE
+                0x08000dcc       0x20 src\init.o
+ .text._Z16Init_SystemClockv
+                0x08000dec       0x6c src\init.o
+                0x08000dec                Init_SystemClock()
+ .text._Z16Init_PeriphClockv
+                0x08000e58       0x40 src\init.o
+                0x08000e58                Init_PeriphClock()
+ .text._Z9Init_GPIOv
+                0x08000e98      0x130 src\init.o
+                0x08000e98                Init_GPIO()
+ .text._Z11Init_Timersv
+                0x08000fc8       0x4c src\init.o
+                0x08000fc8                Init_Timers()
+ .text._Z15Init_Interruptsv
+                0x08001014       0x48 src\init.o
+                0x08001014                Init_Interrupts()
+ .text._Z13Init_Hardwarev
+                0x0800105c       0x1c src\init.o
+                0x0800105c                Init_Hardware()
+ .text.LL_EXTI_ClearFlag_0_31
+                0x08001078       0x20 src\interrputs.o
+ .text.LL_GPIO_IsInputPinSet
+                0x08001098       0x2c src\interrputs.o
+ .text.LL_TIM_ClearFlag_UPDATE
+                0x080010c4       0x1c src\interrputs.o
+ .text._Z19TIM6_DAC_IRQHandlerv
+                0x080010e0       0x1c src\interrputs.o
+                0x080010e0                TIM6_DAC_IRQHandler()
+ .text._Z15TIM7_IRQHandlerv
+                0x080010fc       0x1c src\interrputs.o
+                0x080010fc                TIM7_IRQHandler()
+ .text._Z15SysTick_Handlerv
+                0x08001118       0x14 src\interrputs.o
+                0x08001118                SysTick_Handler()
+ .text._Z16EXTI0_IRQHandlerv
+                0x0800112c       0x2c src\interrputs.o
+                0x0800112c                EXTI0_IRQHandler()
+ .text._Z15Default_Handlerv
+                0x08001158        0x8 src\interrputs.o
+                0x08001158                Default_Handler()
+ .text._Z13Reset_Handlerv
+                0x08001160       0x7c src\interrputs.o
+                0x08001160                Reset_Handler()
+ .text.LL_LPM_EnableDeepSleep
+                0x080011dc       0x20 src\main.o
+ .text.LL_PWR_SetPowerMode
+                0x080011fc       0x28 src\main.o
+ .text.main     0x08001224       0x50 src\main.o
+                0x08001224                main
+ .text._Z17EnterShutdownModev
+                0x08001274       0x48 src\main.o
+                0x08001274                EnterShutdownMode()
+ *(.glue_7)
+ .glue_7        0x080012bc        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080012bc        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080012bc        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+ *(.init)
+ .init          0x080012bc        0x4 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+                0x080012bc                _init
+ .init          0x080012c0        0x8 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x080012c8        0x4 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+                0x080012c8                _fini
+ .fini          0x080012cc        0x8 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtn.o
+                0x080012d4                . = ALIGN (0x4)
+                0x080012d4                _etext = .
+
+.vfp11_veneer   0x080012d4        0x0
+ .vfp11_veneer  0x080012d4        0x0 linker stubs
+
+.v4_bx          0x080012d4        0x0
+ .v4_bx         0x080012d4        0x0 linker stubs
+
+.iplt           0x080012d4        0x0
+ .iplt          0x080012d4        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+
+.rel.dyn        0x080012d4        0x0
+ .rel.iplt      0x080012d4        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+
+.rodata         0x080012d4        0x0
+                0x080012d4                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x080012d4                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x080012d4        0x0
+                0x080012d4                __exidx_start = .
+ *(.ARM.exidx*)
+                0x080012d4                __exidx_end = .
+
+.preinit_array  0x080012d4        0x0
+                [!provide]                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                [!provide]                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x080012d4        0x4
+                [!provide]                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x080012d4        0x4 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+                [!provide]                PROVIDE (__init_array_end, .)
+
+.fini_array     0x080012d8        0x4
+                [!provide]                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080012d8        0x4 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end, .)
+                0x080012dc                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x080012dc
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _edata = .
+                0x080012dc                _siram2 = LOADADDR (.ram2)
+
+.igot.plt       0x20000000        0x0 load address 0x080012dc
+ .igot.plt      0x20000000        0x0 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+
+.ram2           0x10000000        0x0 load address 0x080012dc
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _sram2 = .
+ *(.ram2)
+ *(.ram2*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _eram2 = .
+                0x10000000                . = ALIGN (0x4)
+
+.bss            0x20000000       0x38
+                0x20000000                _sbss = .
+                0x20000000                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000000       0x1c c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+ *(.bss*)
+ .bss.Display   0x2000001c        0x8 src\main.o
+                0x2000001c                Display
+ .bss.Buzzer    0x20000024        0xc src\main.o
+                0x20000024                Buzzer
+ .bss.Timer     0x20000030        0x4 src\main.o
+                0x20000030                Timer
+ .bss.ButtonState
+                0x20000034        0x1 src\main.o
+                0x20000034                ButtonState
+ *(COMMON)
+                0x20000038                . = ALIGN (0x4)
+ *fill*         0x20000035        0x3 
+                0x20000038                _ebss = .
+                0x20000038                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000038      0x400
+                0x20000038                . = ALIGN (0x4)
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x20000038                . = (. + _Min_Heap_Size)
+                0x20000438                . = (. + _Min_Stack_Size)
+ *fill*         0x20000038      0x400 
+                0x20000438                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x32
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x39 CBuzzer\buzzer.o
+ .ARM.attributes
+                0x0000008f       0x39 CDisplay\display.o
+ .ARM.attributes
+                0x000000c8       0x39 CTimer\timer.o
+ .ARM.attributes
+                0x00000101       0x39 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .ARM.attributes
+                0x0000013a       0x39 src\init.o
+ .ARM.attributes
+                0x00000173       0x39 src\interrputs.o
+ .ARM.attributes
+                0x000001ac       0x39 src\main.o
+ .ARM.attributes
+                0x000001e5       0x22 c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtn.o
+OUTPUT(ToothBeeper.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x3b78
+ .debug_info    0x00000000      0x65a CBuzzer\buzzer.o
+ .debug_info    0x0000065a      0x599 CDisplay\display.o
+ .debug_info    0x00000bf3      0x474 CTimer\timer.o
+ .debug_info    0x00001067      0x8d4 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .debug_info    0x0000193b     0x1014 src\init.o
+ .debug_info    0x0000294f      0xa6a src\interrputs.o
+ .debug_info    0x000033b9      0x7bf src\main.o
+
+.debug_abbrev   0x00000000      0xc18
+ .debug_abbrev  0x00000000      0x190 CBuzzer\buzzer.o
+ .debug_abbrev  0x00000190      0x1b1 CDisplay\display.o
+ .debug_abbrev  0x00000341      0x14b CTimer\timer.o
+ .debug_abbrev  0x0000048c      0x1f7 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .debug_abbrev  0x00000683      0x1df src\init.o
+ .debug_abbrev  0x00000862      0x1e7 src\interrputs.o
+ .debug_abbrev  0x00000a49      0x1cf src\main.o
+
+.debug_aranges  0x00000000      0x2b8
+ .debug_aranges
+                0x00000000       0x58 CBuzzer\buzzer.o
+ .debug_aranges
+                0x00000058       0x60 CDisplay\display.o
+ .debug_aranges
+                0x000000b8       0x30 CTimer\timer.o
+ .debug_aranges
+                0x000000e8       0x70 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .debug_aranges
+                0x00000158       0xc8 src\init.o
+ .debug_aranges
+                0x00000220       0x60 src\interrputs.o
+ .debug_aranges
+                0x00000280       0x38 src\main.o
+
+.debug_ranges   0x00000000      0x248
+ .debug_ranges  0x00000000       0x48 CBuzzer\buzzer.o
+ .debug_ranges  0x00000048       0x50 CDisplay\display.o
+ .debug_ranges  0x00000098       0x20 CTimer\timer.o
+ .debug_ranges  0x000000b8       0x60 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .debug_ranges  0x00000118       0xb8 src\init.o
+ .debug_ranges  0x000001d0       0x50 src\interrputs.o
+ .debug_ranges  0x00000220       0x28 src\main.o
+
+.debug_line     0x00000000     0x1848
+ .debug_line    0x00000000      0x2f4 CBuzzer\buzzer.o
+ .debug_line    0x000002f4      0x39e CDisplay\display.o
+ .debug_line    0x00000692      0x2b5 CTimer\timer.o
+ .debug_line    0x00000947      0x408 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .debug_line    0x00000d4f      0x457 src\init.o
+ .debug_line    0x000011a6      0x38f src\interrputs.o
+ .debug_line    0x00001535      0x313 src\main.o
+
+.debug_str      0x00000000     0x1434
+ .debug_str     0x00000000      0x462 CBuzzer\buzzer.o
+                                0x507 (size before relaxing)
+ .debug_str     0x00000462      0x168 CDisplay\display.o
+                                0x4ee (size before relaxing)
+ .debug_str     0x000005ca       0x8d CTimer\timer.o
+                                0x56d (size before relaxing)
+ .debug_str     0x00000657      0x365 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+                                0x50a (size before relaxing)
+ .debug_str     0x000009bc      0x806 src\init.o
+                                0xdd5 (size before relaxing)
+ .debug_str     0x000011c2      0x17f src\interrputs.o
+                                0x895 (size before relaxing)
+ .debug_str     0x00001341       0xf3 src\main.o
+                                0x6e1 (size before relaxing)
+
+.comment        0x00000000       0x7e
+ .comment       0x00000000       0x7e CBuzzer\buzzer.o
+                                 0x7f (size before relaxing)
+ .comment       0x0000007e       0x7f CDisplay\display.o
+ .comment       0x0000007e       0x7f CTimer\timer.o
+ .comment       0x0000007e       0x7f Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .comment       0x0000007e       0x7f src\init.o
+ .comment       0x0000007e       0x7f src\interrputs.o
+ .comment       0x0000007e       0x7f src\main.o
+
+.debug_frame    0x00000000      0x9f4
+ .debug_frame   0x00000000      0x144 CBuzzer\buzzer.o
+ .debug_frame   0x00000144      0x168 CDisplay\display.o
+ .debug_frame   0x000002ac       0x84 CTimer\timer.o
+ .debug_frame   0x00000330      0x1c0 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+ .debug_frame   0x000004f0      0x340 src\init.o
+ .debug_frame   0x00000830      0x134 src\interrputs.o
+ .debug_frame   0x00000964       0x90 src\main.o
+
+Cross Reference Table
+
+Symbol                                            File
+AHBPrescTable                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+                                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+ButtonState                                       src\main.o
+                                                  src\interrputs.o
+Buzzer                                            src\main.o
+                                                  src\interrputs.o
+                                                  CTimer\timer.o
+CBuzzerModule::BeepLong(unsigned int)             CBuzzer\buzzer.o
+                                                  CTimer\timer.o
+CBuzzerModule::BeepShort(unsigned int)            CBuzzer\buzzer.o
+                                                  CTimer\timer.o
+CBuzzerModule::Handle()                           CBuzzer\buzzer.o
+                                                  src\interrputs.o
+CDisplayModule::DigitClear()                      CDisplay\display.o
+CDisplayModule::DigitSelect(unsigned int)         CDisplay\display.o
+CDisplayModule::DigitSet(unsigned char)           CDisplay\display.o
+CDisplayModule::Handle()                          CDisplay\display.o
+                                                  src\interrputs.o
+CDisplayModule::Init()                            CDisplay\display.o
+                                                  src\main.o
+CDisplayModule::PrintBCD(unsigned int)            CDisplay\display.o
+CDisplayModule::PrintDec(unsigned int)            CDisplay\display.o
+                                                  CTimer\timer.o
+CTimerModule::Handle()                            CTimer\timer.o
+                                                  src\main.o
+                                                  src\interrputs.o
+CTimerModule::Init()                              CTimer\timer.o
+                                                  src\main.o
+CTimerModule::Reload()                            CTimer\timer.o
+                                                  src\main.o
+Default_Handler()                                 src\interrputs.o
+Display                                           src\main.o
+                                                  src\interrputs.o
+                                                  CTimer\timer.o
+EXTI0_IRQHandler()                                src\interrputs.o
+EnterShutdownMode()                               src\main.o
+                                                  CTimer\timer.o
+IS_TIM_ADVANCED_INSTANCE                          Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+Init_GPIO()                                       src\init.o
+Init_Hardware()                                   src\init.o
+                                                  src\main.o
+Init_Interrupts()                                 src\init.o
+Init_PeriphClock()                                src\init.o
+Init_SystemClock()                                src\init.o
+Init_Timers()                                     src\init.o
+LL_ADC_CommonDeInit                               Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_CommonInit                                 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_CommonStructInit                           Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_INJ_Init                                   Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_INJ_StructInit                             Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_Init                                       Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_REG_Init                                   Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_REG_StructInit                             Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_ADC_StructInit                                 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_adc.o
+LL_COMP_DeInit                                    Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+LL_COMP_Init                                      Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+LL_COMP_StructInit                                Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_comp.o
+LL_CRC_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_crc.o
+LL_DAC_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+LL_DAC_Init                                       Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+LL_DAC_StructInit                                 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dac.o
+LL_DMA_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+LL_DMA_Init                                       Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+LL_DMA_StructInit                                 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_dma.o
+LL_EXTI_DeInit                                    Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+LL_EXTI_Init                                      Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+LL_EXTI_StructInit                                Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_exti.o
+LL_GPIO_DeInit                                    Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+LL_GPIO_Init                                      Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+                                                  src\init.o
+LL_GPIO_StructInit                                Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_gpio.o
+LL_I2C_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+LL_I2C_Init                                       Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+LL_I2C_StructInit                                 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_i2c.o
+LL_Init1msTick                                    Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+LL_LPTIM_DeInit                                   Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+LL_LPTIM_Init                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+LL_LPTIM_StructInit                               Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lptim.o
+LL_LPUART_DeInit                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+LL_LPUART_Init                                    Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+LL_LPUART_StructInit                              Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+LL_OPAMP_DeInit                                   Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+LL_OPAMP_Init                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+LL_OPAMP_StructInit                               Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_opamp.o
+LL_PLL_ConfigSystemClock_HSE                      Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+LL_PLL_ConfigSystemClock_HSI                      Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+LL_PLL_ConfigSystemClock_MSI                      Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+LL_PWR_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_pwr.o
+LL_RCC_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetADCClockFreq                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetI2CClockFreq                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetLPTIMClockFreq                          Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetLPUARTClockFreq                         Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+                                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+LL_RCC_GetRNGClockFreq                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetSAIClockFreq                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetSDMMCClockFreq                          Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetSWPMIClockFreq                          Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetSystemClocksFreq                        Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+LL_RCC_GetUARTClockFreq                           Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+                                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+LL_RCC_GetUSARTClockFreq                          Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+                                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+LL_RNG_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rng.o
+LL_RTC_ALMA_Init                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_ALMA_StructInit                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_ALMB_Init                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_ALMB_StructInit                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_DATE_Init                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_DATE_StructInit                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_EnterInitMode                              Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_ExitInitMode                               Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_Init                                       Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_StructInit                                 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_TIME_Init                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_TIME_StructInit                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_RTC_WaitForSynchro                             Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rtc.o
+LL_SPI_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+LL_SPI_Init                                       Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+LL_SPI_StructInit                                 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_spi.o
+LL_SWPMI_DeInit                                   Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+LL_SWPMI_Init                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+LL_SWPMI_StructInit                               Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_swpmi.o
+LL_SetSystemCoreClock                             Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+LL_TIM_BDTR_Init                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_BDTR_StructInit                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_DeInit                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_ENCODER_Init                               Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_ENCODER_StructInit                         Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_HALLSENSOR_Init                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_HALLSENSOR_StructInit                      Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_IC_Init                                    Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_IC_StructInit                              Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_Init                                       Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_OC_Init                                    Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_OC_StructInit                              Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_TIM_StructInit                                 Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_tim.o
+LL_USART_ClockInit                                Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+LL_USART_ClockStructInit                          Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+LL_USART_DeInit                                   Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+LL_USART_Init                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+LL_USART_StructInit                               Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_usart.o
+LL_mDelay                                         Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+MSIRangeTable                                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+                                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_GetHCLKClockFreq                              Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_GetPCLK1ClockFreq                             Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_GetPCLK2ClockFreq                             Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_GetSystemClockFreq                            Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_PLLSAI1_GetFreqDomain_48M                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_PLLSAI1_GetFreqDomain_ADC                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_PLLSAI1_GetFreqDomain_SAI                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_PLLSAI2_GetFreqDomain_ADC                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_PLLSAI2_GetFreqDomain_SAI                     Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_PLL_GetFreqDomain_48M                         Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_PLL_GetFreqDomain_SAI                         Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+RCC_PLL_GetFreqDomain_SYS                         Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_rcc.o
+Reset_Handler()                                   src\interrputs.o
+SysTick_Handler()                                 src\interrputs.o
+SystemCoreClock                                   Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_utils.o
+TIM6_DAC_IRQHandler()                             src\interrputs.o
+TIM7_IRQHandler()                                 src\interrputs.o
+Timer                                             src\main.o
+                                                  src\interrputs.o
+__aeabi_idiv0                                     c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+__aeabi_ldiv0                                     c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                                                  c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+__aeabi_uldivmod                                  c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                                                  Drivers\STM32L4xx_LL_Driver\src\stm32l4xx_ll_lpuart.o
+__deregister_frame_info                           c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+__dso_handle                                      c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+__register_frame_info                             c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crtbegin.o
+__udivmoddi4                                      c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+                                                  c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+_ebss                                             src\interrputs.o
+_edata                                            src\interrputs.o
+_estack                                           src\interrputs.o
+_fini                                             c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+_init                                             c:/program files (x86)/atollic/truestudio for arm 7.1.1/armtools/bin/../lib/gcc/arm-atollic-eabi/5.3.1/armv7e-m/fpu/crti.o
+_sbss                                             src\interrputs.o
+_sdata                                            src\interrputs.o
+_sidata                                           src\interrputs.o
+g_pfnVectors                                      src\interrputs.o
+main                                              src\main.o
+                                                  src\interrputs.o

@@ -1,0 +1,9 @@
+stm32l4xx_ll_exti.h:1301:22:void LL_EXTI_ClearFlag_0_31(uint32_t)	16	static
+stm32l4xx_ll_gpio.h:885:26:uint32_t LL_GPIO_IsInputPinSet(GPIO_TypeDef*, uint32_t)	16	static
+stm32l4xx_ll_tim.h:3952:22:void LL_TIM_ClearFlag_UPDATE(TIM_TypeDef*)	16	static
+interrputs.cpp:7:6:void TIM6_DAC_IRQHandler()	8	static
+interrputs.cpp:13:6:void TIM7_IRQHandler()	8	static
+interrputs.cpp:19:6:void SysTick_Handler()	8	static
+interrputs.cpp:24:6:void EXTI0_IRQHandler()	8	static
+interrputs.cpp:30:6:void Default_Handler()	4	static
+interrputs.cpp:230:6:void Reset_Handler()	16	static
